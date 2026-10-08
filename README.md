@@ -32,7 +32,9 @@ I have a deep passion for software engineering spanning low-level systems archit
 - 🎓 **Academics**: 4th-year CSE student at **AIUB**, Dhaka, Bangladesh.
 - 🏢 **Organization**: Founder / Lead at **DevMuse Studio**.
 - 💡 **Technical Interests**: Microprocessor emulation & compilers, Full-Stack TypeScript/React, Cross-platform Flutter apps, .NET/C# software, and AI-assisted tooling.
-- 🏆 **Competitions & Hackathons**: Participated in **BUP CSE Fest 2026** with *Fusel — Fuel Supply Intelligence & Resilience Platform*.
+- 🏆 **Competitions & Achievements**:
+  - 🏅 **4th Place** at **SUST CSE Fest 2026** with **[Float_Ops](https://github.com/MMHT2000/Float_Ops)** — Innovative floating-point operations & computing solution.
+  - 🚀 Participated in **BUP CSE Fest 2026** with **[Fusel](https://github.com/MMHT2000/Fusel-A-Fuel-Supply-Intelligence-and-Resilience-Platform)** — Fuel Supply Intelligence & Resilience Platform.
 - ☕ **Support**: If my open-source software helps you in your studies or engineering, support me on **[Buy Me a Coffee](https://buymeacoffee.com/MMHT2000)**!
 
 ---
@@ -43,6 +45,7 @@ Here is a curated snapshot of what I build:
 
 | Project | Stack | Description | Links |
 | :--- | :--- | :--- | :--- |
+| **[Float_Ops](https://github.com/MMHT2000/Float_Ops)** | `Systems` `Algorithms` `Math/Ops` | 🏅 **4th Place at SUST CSE Fest 2026** — Floating-point operations and computing project built for competitive engineering exhibition. | [🏆 Repo](https://github.com/MMHT2000/Float_Ops) |
 | **[ASM Studio 2026](https://github.com/MMHT2000/ASM-Studio-2026)** | `TypeScript` `React` `x86 Core` `Electron` | A modern, cycle-accurate Intel 8086 Assembly IDE, visual emulator, hardware simulator, and multi-LLM AI tutor. | [💻 Web App](https://mmht2000.github.io/ASM-Studio-2026/) • [📦 Releases](https://github.com/MMHT2000/ASM-Studio-2026/releases) |
 | **[Flow Budget](https://github.com/MMHT2000/flow_budget)** | `Dart` `Flutter` `Mobile` | A modern personal finance and expense budgeting application crafted with Flutter. | [📱 Repo](https://github.com/MMHT2000/flow_budget) • [🔒 Privacy Site](https://mmht2000.github.io/flow-privacy/) |
 | **[NoteBasket](https://github.com/MMHT2000/NoteBasket)** | `C#` `.NET` `Web` | A collaborative note-sharing and academic document distribution platform. | [📁 Repo](https://github.com/MMHT2000/NoteBasket) |
